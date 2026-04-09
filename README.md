@@ -36,12 +36,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin4-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔌 Other Tools & Technologies  
-- **Socket.io**: Implemented real-time communication using WebSockets  
-- **Nodemon**: Enhanced development workflow with automatic server restarts  
-- **Git**: Managed version control, branching, and collaboration workflows  
-- **GitHub**: Hosted repositories, managed code reviews, and project collaboration  
-- **Postman**: Tested and validated REST APIs with request/response debugging  
+### 🔌 Other Tools & Technologies
+
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
