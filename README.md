@@ -70,5 +70,5 @@ I enjoy working on projects involving scalable backend systems, REST APIs, real-
 ![](https://nirzak-streak-stats.vercel.app/?user=Suguda-Thakur-Marndi&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suguda-Thakur-Marndi&layout=compact&theme=tokyonight&hide_border=true)
-
+ 
 ---
