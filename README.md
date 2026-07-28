@@ -63,7 +63,7 @@ I enjoy working on projects involving scalable backend systems, REST APIs, real-
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=Suguda-Thakur-Marndi&show_icons=true&theme=tokyonight&hide_border=true)
 
