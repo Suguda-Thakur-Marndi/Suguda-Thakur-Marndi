@@ -72,5 +72,5 @@ I enjoy working on projects involving scalable backend systems, REST APIs, real-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suguda-Thakur-Marndi&layout=compact&theme=tokyonight&hide_border=true)
  
 ---
-![GitHub Contribution Snake](https://github.com/Suguda-Thakur-Marndi/Suguda-Thakur-Marndi/blob/output/github-contribution-grid-snake.gif)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Suguda-Thakur-Marndi/Suguda-Thakur-Marndi/output/github-contribution-grid-snake-dark.svg)
 
